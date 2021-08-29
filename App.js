@@ -10,8 +10,8 @@ var emojiDictionary = {
   "🤩": "Star-Struck",
   "😘": "Face Blowing a Kiss",
   "🐫": "Camel",
-	"🐵": "Monkey",
-	"🐶": "Dog"
+  "🐵": "Monkey",
+  "🐶": "Dog"
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
