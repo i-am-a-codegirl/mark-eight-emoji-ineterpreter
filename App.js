@@ -8,7 +8,10 @@ var emojiDictionary = {
   "🥰": "Smiling Face with Hearts",
   "😍": "Smiling Face with Heart-Eyes",
   "🤩": "Star-Struck",
-  "😘": "Face Blowing a Kiss"
+  "😘": "Face Blowing a Kiss",
+  "🐫": "Camel",
+	"🐵": "Monkey",
+	"🐶": "Dog"
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
